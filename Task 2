@@ -1,0 +1,9 @@
+n=float(input("Enter a number: "))
+from math import *
+result1=(sqrt(n))
+result2=(log(n))
+result3=(sin(n))
+print("square root: ",result1)
+print("Logarithm: ",result2)
+print("sine: ",result3)
+
